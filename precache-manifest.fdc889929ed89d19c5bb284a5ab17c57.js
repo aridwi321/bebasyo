@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/bebasyo/static/js/runtime~main.44d6d7a8.js"
   },
   {
-    "revision": "8d0843bd403a0d7d0887",
-    "url": "/bebasyo/static/js/main.8d0843bd.chunk.js"
+    "revision": "4f39e17f88ae66d0f7d5",
+    "url": "/bebasyo/static/js/main.4f39e17f.chunk.js"
   },
   {
     "revision": "c88c70e5f4ff8bea6fac",
     "url": "/bebasyo/static/js/2.c88c70e5.chunk.js"
   },
   {
-    "revision": "8d0843bd403a0d7d0887",
+    "revision": "4f39e17f88ae66d0f7d5",
     "url": "/bebasyo/static/css/main.c53d617e.chunk.css"
   },
   {
-    "revision": "185089f351ada1f961056eaac3eecc57",
+    "revision": "4763b350ddcd69de196a65d5071d91be",
     "url": "/bebasyo/index.html"
   }
 ];
