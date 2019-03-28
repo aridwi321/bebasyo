@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bebasyo/precache-manifest.fdc889929ed89d19c5bb284a5ab17c57.js"
+  "/bebasyo/precache-manifest.9134ccc698c37122244f3fdb079f8d10.js"
 );
 
 workbox.clientsClaim();
